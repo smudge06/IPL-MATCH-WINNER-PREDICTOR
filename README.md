@@ -39,7 +39,6 @@ The model is trained using a Random Forest Classifier and considers key match fe
   * Team 2
   * Toss Winner
   * Venue
-* Accuracy: **~78%**
 
 ---
 
